@@ -28,3 +28,7 @@ export const LogoutBtn = () => {
     <Link href={"/login"}>Login</Link>
   );
 };
+
+export const TodoButton = () => {
+  return <></>;
+};
